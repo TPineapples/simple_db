@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Simple DB</title>
 </head>
 <body>
 
-<h1>Sample DB connection</h1>
+<h1>Simple DB connection</h1>
 
 <?php
 
